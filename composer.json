@@ -1,0 +1,14 @@
+{
+    "name": "thefoxjob/jwt-multiauth",
+    "require": {
+        "tymon/jwt-auth": "^0.5.5",
+        "kbwebs/multiauth": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edward Khor",
+            "email": "edward@enfonius.com"
+        }
+    ]
+}
