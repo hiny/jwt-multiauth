@@ -1,5 +1,8 @@
 {
     "name": "thefoxjob/jwt-multiauth",
+    "autoload": {
+        "psr-4": { "Thefoxjob\\JWTMultiAuth\\" : "src/" }
+    },
     "require": {
         "tymon/jwt-auth": "^0.5.5",
         "kbwebs/multiauth": "^1.0"
@@ -10,5 +13,6 @@
             "name": "Edward Khor",
             "email": "edward@enfonius.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
