@@ -1,6 +1,6 @@
 <?php
 
-namespace Thefoxjob\JWTAuth\Providers;
+namespace Thefoxjob\JWTMultiAuth\Providers;
 
 use Exception;
 use Illuminate\Auth\AuthManager;
